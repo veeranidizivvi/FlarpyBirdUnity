@@ -21,3 +21,24 @@ Download and run FlappyBird.exe
 Download Game
 
 Play here:https://drive.google.com/file/d/10Tx6o6tXiLY9kDmIHM_Gt37ub-RI5cqw/view?usp=sharing
+
+Download and Play
+
+1. Click the Google Drive download link.
+2. Download the ZIP file.
+3. Extract the ZIP file using:
+   - Right click → Extract All
+4. Open the extracted folder.
+5. Run "Flarpy Bird.exe".
+6. If Windows shows a warning:
+   - Click "More info"
+   - Click "Run anyway"
+
+Requirements
+
+- Windows PC
+- Keyboard and mouse
+
+Controls
+
+- Spacebar / Left Mouse Click → Jump
