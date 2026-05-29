@@ -20,7 +20,7 @@ Download and run FlappyBird.exe
 
 Download Game
 
-Play here:https://drive.google.com/file/d/10Tx6o6tXiLY9kDmIHM_Gt37ub-RI5cqw/view?usp=sharing
+Play here:https://drive.google.com/file/d/1ahMfgl-fyIH47UfhuFF_FNTILqBRT238/view?usp=sharing
 
 Download and Play
 
