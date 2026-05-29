@@ -17,3 +17,7 @@ Built With
 How to Play
 
 Download and run FlappyBird.exe
+
+Download Game
+
+Play here:https://drive.google.com/file/d/10Tx6o6tXiLY9kDmIHM_Gt37ub-RI5cqw/view?usp=sharing
